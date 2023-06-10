@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Charlize Conformity
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Charlize - Conformity seeks to automate the validation of certificates of conformity used in the process of importing and exporting goods subject to compliance with a technical standard. 
